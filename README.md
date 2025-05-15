@@ -17,7 +17,7 @@
 - 🌱 I love building end-to-end applications with modern web technologies  
 - 💬 Ask me about Django, REST APIs, Frontend + Backend integration  
 - 💼 Open to opportunities and collaboration on Django-based projects  
-- 📫 How to reach me: **[your email here]** or **[LinkedIn/GitHub link]**
+- 📫 How to reach me: **[arjunarju9747@gmail.com** or **https://github.com/arjun-00012**
 
 ---
 
