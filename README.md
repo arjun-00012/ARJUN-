@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="cover image" width="100%">
+</p>
+
 <h1 align="center">👋 Hello, I'm Arjun P</h1>
 <h3 align="center">Python Django Full Stack Developer</h3>
 
@@ -22,11 +26,11 @@
 
 ### 🛠️ Skills & Technologies
 
-- **Languages:** Python, HTML, CSS
-- **Frameworks:** Django, Bootstrap
-- **Frontend Tools:** HTML5, CSS3, Bootstrap
-- **Backend Tools:** Django, Python-based REST APIs
-- **Other Tools:** Git, GitHub, VS Code
+- **Languages:** Python, HTML, CSS  
+- **Frameworks:** Django, Bootstrap  
+- **Frontend Tools:** HTML5, CSS3, Bootstrap  
+- **Backend Tools:** Django, Python-based REST APIs  
+- **Other Tools:** Git, GitHub, VS Code  
 
 ---
 
@@ -35,13 +39,9 @@
 - **Email:** arjunarju9747@gmail.com  
 - **GitHub:** [Arjun-p](https://github.com/Arjun-p)  
 
-
 ---
 
 ### 📝 Quote
 
 > *"Code is like humor. When you have to explain it, it’s bad."*  
 > — Cory House
-
----
-
