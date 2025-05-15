@@ -32,9 +32,9 @@
 
 ### 📫 Contact
 
-- **Email:** your.email@example.com  
+- **Email:** arjunarju9747@gmail.com  
 - **GitHub:** [Arjun-p](https://github.com/Arjun-p)  
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
 
 ---
 
